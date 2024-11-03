@@ -4,7 +4,7 @@
 
 ## 📑 Technion Reports
 
-Here's a quick overview of some of my reports on some of the courses that I took as a mechanical engineering student in Technion
+Here's a quick overview of some of my reports on some courses that I took as a mechanical engineering student in Technion
 
 - [Advanced Controls Lab - Lab 5 Report](https://github.com/Danny-Ap/Portfolio.github.io/blob/main/Advanced%20Controls%20Lab-Lab5%20Report.pdf)
 - [Mechanical Engineering Lab - Lab 2 Report](https://github.com/Danny-Ap/Portfolio.github.io/blob/main/Advanced_Lab_Mech_Engineering_Lab2_Report.pdf)
