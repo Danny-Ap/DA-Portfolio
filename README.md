@@ -13,9 +13,9 @@ Here's a quick overview of some of my reports on some of the courses that I took
 ---
 
 ## 🚀 Personal Projects
-My learning path to mySQL, excel & powerBI
+My learning path to mySQL, Excel & powerBI
 
-- **Project 1**: Description of Project 1 (with a [link-to-file-or-code](#))
+- Excel: Bike Sale Analysis Project (https://github.com/Danny-Ap/Portfolio.github.io/blob/main/Bike%20Sales%20Analysis.xlsx))
 - **Project 2**: Description of Project 2 (with a [link-to-file-or-code](#))
 - **Project 3**: Description of Project 3 (with a [link-to-file-or-code](#))
 
