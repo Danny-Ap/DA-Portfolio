@@ -17,7 +17,7 @@ My learning path to mySQL, Excel & powerBI
 
 - **Excel:** [Bike Sale Analysis Project](https://github.com/Danny-Ap/Portfolio.github.io/blob/main/Bike%20Sales%20Analysis.xlsx)
 - **PowerBI**: [Data Survey Breakdown](https://github.com/Danny-Ap/DA-Portfolio/blob/main/Power%20BI%20-%20Final%20Project.pbix)
-- ![Dashboard](https://github.com/user-attachments/assets/6c718af6-2544-487a-bed3-2b712a36b310)
+![Dashboard](https://github.com/user-attachments/assets/6c718af6-2544-487a-bed3-2b712a36b310)
 
 - **MySQL**: [Data Cleaning](https://github.com/Danny-Ap/DA-Portfolio/blob/main/Data%20Cleaning.sql) & [Data Exploration](https://github.com/Danny-Ap/DA-Portfolio/blob/main/Data%20Exploration.sql) (The original dataset is [layoffs](https://github.com/Danny-Ap/DA-Portfolio/blob/main/layoffs.csv))
 
