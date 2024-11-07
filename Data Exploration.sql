@@ -6,7 +6,7 @@ SELECT MAX(total_laid_off), MIN(total_laid_off)
 FROM layoffs_staging2;
 
 SELECT * FROM layoffs_staging2
-WHERE percentage_laid_off = 1 -- companies went bankrupt? 100% laidoff
+WHERE percentage_laid_off = 1 -- companies went bankrupt? 100% layoff
 ORDER BY total_laid_off DESC;
 
 SELECT company, SUM(total_laid_off) -- Sum to ignore NULLS & if a company has multiple laidoffs we get the sum
