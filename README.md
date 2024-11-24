@@ -17,13 +17,15 @@ My learning path to mySQL, Excel & powerBI
 
 - **Excel:** [Bike Sale Analysis Project](https://github.com/Danny-Ap/Portfolio.github.io/blob/main/Bike%20Sales%20Analysis.xlsx)
 - **PowerBI**: [Data Survey Breakdown](https://github.com/Danny-Ap/DA-Portfolio/blob/main/Power%20BI%20-%20Final%20Project.pbix)
-![Dashboard](https://github.com/user-attachments/assets/6c718af6-2544-487a-bed3-2b712a36b310)
+  - ![Dashboard](https://github.com/user-attachments/assets/6c718af6-2544-487a-bed3-2b712a36b310)
 
 - **MySQL**: [Data Cleaning](https://github.com/Danny-Ap/DA-Portfolio/blob/main/Data%20Cleaning.sql) & [Data Exploration](https://github.com/Danny-Ap/DA-Portfolio/blob/main/Data%20Exploration.sql) (The original dataset is [layoffs](https://github.com/Danny-Ap/DA-Portfolio/blob/main/layoffs.csv))
 
-- **Amazing Mart EU 2 Geo Project**: [Data Cleaning & exploration with SQL](https://github.com/Danny-Ap/DA-Portfolio/blob/main/AmazingMartEU2GEO_DataExploration.sql) 
-  - Dashboard made in PowerBI: Version 1 \
-![AmazingMart_Dashboard - Version 1](https://github.com/user-attachments/assets/d94e1a48-ec38-46c2-ae8c-09dd10b35d93)
+- **Amazing Mart EU 2 Geo Project**
+  - [Data Cleaning & exploration with SQL](https://github.com/Danny-Ap/DA-Portfolio/blob/main/AmazingMartEU2GEO_DataExploration.sql) 
+  - Dashboard made in PowerBI: [Version 1](https://github.com/Danny-Ap/DA-Portfolio/blob/main/AmazingMartEU2Geo.pbix) & [Version 2](https://github.com/Danny-Ap/DA-Portfolio/blob/main/Dashboard_v2.pbix)
+   - [Version 1](https://github.com/Danny-Ap/DA-Portfolio/blob/main/AmazingMartEU2Geo.pbix) ![AmazingMart_Dashboard - Version 1](https://github.com/user-attachments/assets/d94e1a48-ec38-46c2-ae8c-09dd10b35d93)
+   - [Version 2](https://github.com/Danny-Ap/DA-Portfolio/blob/main/Dashboard_v2.pbix) ![AmazingMart_Dashboard - Version 2](https://github.com/user-attachments/assets/31d1c615-f00e-4bb3-b8f3-fd7e9d29bc9b)
 
 
 
