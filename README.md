@@ -21,5 +21,11 @@ My learning path to mySQL, Excel & powerBI
 
 - **MySQL**: [Data Cleaning](https://github.com/Danny-Ap/DA-Portfolio/blob/main/Data%20Cleaning.sql) & [Data Exploration](https://github.com/Danny-Ap/DA-Portfolio/blob/main/Data%20Exploration.sql) (The original dataset is [layoffs](https://github.com/Danny-Ap/DA-Portfolio/blob/main/layoffs.csv))
 
+- **Amazing Mart EU 2 Geo Project**: [Data Cleaning & exploration with SQL](https://github.com/Danny-Ap/DA-Portfolio/blob/main/AmazingMartEU2GEO_DataExploration.sql) 
+  - Dashboard made in PowerBI: Version 1 \
+![AmazingMart_Dashboard - Version 1](https://github.com/user-attachments/assets/d94e1a48-ec38-46c2-ae8c-09dd10b35d93)
+
+
+
 ---
 
