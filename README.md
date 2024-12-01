@@ -27,6 +27,11 @@ My learning path to mySQL, Excel & powerBI
    - [Version 1](https://github.com/Danny-Ap/DA-Portfolio/blob/main/AmazingMartEU2Geo.pbix) ![AmazingMart_Dashboard - Version 1](https://github.com/user-attachments/assets/d94e1a48-ec38-46c2-ae8c-09dd10b35d93)
    - [Version 2](https://github.com/Danny-Ap/DA-Portfolio/blob/main/Dashboard_v2.pbix) ![AmazingMart_Dashboard - Version 2](https://github.com/user-attachments/assets/31d1c615-f00e-4bb3-b8f3-fd7e9d29bc9b)
 
+- **Spotify Dashboard**
+  - Made in PowerBI
+
+https://github.com/user-attachments/assets/34e3ef68-9795-4cb9-9c1a-dfc68da0f594
+
 
 
 ---
